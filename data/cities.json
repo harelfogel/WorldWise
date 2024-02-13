@@ -35,42 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Majadahonda",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-13T16:32:32.264Z",
-      "notes": "",
-      "position": {
-        "lat": "40.458016127227374",
-        "lng": "-3.878391884530093"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Villanueva de la Canada",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-13T16:36:11.684Z",
-      "notes": "",
-      "position": {
-        "lat": "40.43720344244695",
-        "lng": "-4.082997675819203"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Montefalco",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-02-13T16:39:24.001Z",
-      "notes": "",
-      "position": {
-        "lat": "42.87489899057606",
-        "lng": "12.62052725587035"
-      },
-      "id": 98443200
     }
   ]
 }
